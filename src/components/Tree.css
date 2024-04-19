@@ -1,0 +1,13 @@
+.tree {
+  background: lightgreen;
+  border: 1px solid green;
+}
+
+.tree img {
+  max-width: 200px;
+  padding-right: 10px;
+}
+
+.columns {
+  display: flex;
+}
